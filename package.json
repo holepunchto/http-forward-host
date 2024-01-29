@@ -1,0 +1,22 @@
+{
+  "name": "http-forward-host",
+  "version": "0.0.0",
+  "description": "Simple stream proxy that sniffs the HTTP host or x-forwarded-for header and allows you to to forward the stream based on that",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "devDependencies": {
+    "standard": "^17.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/holepunch/http-forward-host.git"
+  },
+  "author": "Holepunch Inc.",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/holepunchto/http-forward-host/issues"
+  },
+  "homepage": "https://github.com/holepunchto/http-forward-host"
+}
